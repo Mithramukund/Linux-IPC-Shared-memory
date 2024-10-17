@@ -69,9 +69,9 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : VARSHA A
+Developed by : MITHRA MUKUNDAA 
 
-Register Number : 212223220121
+Register Number : 212222100026
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 ~~~
